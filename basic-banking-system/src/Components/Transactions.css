@@ -1,0 +1,18 @@
+.transactions {
+  position: relative;
+  background-color: orange;
+  height: 100vh;
+}
+.transactions-container {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 7rem;
+}
+.transactions-container h5 {
+  color: white;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}
